@@ -36,3 +36,24 @@ p{
     font-weight: 700;
     border-radius: 5px;
 }
+.text-center{
+    text-align: center;
+}
+.img-width{
+    width: 50%;
+}
+.mission-area{
+    width: 100%;
+    margin-left: 5%;
+    padding: 30px;
+    border-radius: 20px;
+}
+#mission-item{
+    background-color: lightblue;
+}
+#vission-item{
+    background-color: lightpink;
+}
+#goal-item{
+    background-color: lightyellow;
+}
