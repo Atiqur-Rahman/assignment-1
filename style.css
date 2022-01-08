@@ -31,9 +31,6 @@ p{
 .half-width img{
     width: 80%;
 }
-/* .half-plus-width{
-    width: 60%;
-} */
 .link-button{
     text-decoration: none;
     background-color: tomato;
@@ -62,4 +59,14 @@ p{
 }
 #goal-item{
     background-color: lightyellow;
+}
+.red-color{
+    color: red;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 0%;
 }
